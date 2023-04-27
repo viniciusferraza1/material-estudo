@@ -9,6 +9,7 @@ Tenho o habito de anotar tudo via <b>OneNote</b> e exportar em formato PDF.
 <ul>
 <li><a href="https://github.com/viniciusferraza1/material-estudo/blob/main/Bootstrap%20-%20VF_ver0.001.pdf" style="text-decoration: none;">Bootstrap 5</a></li>
 <li><a href="https://github.com/viniciusferraza1/material-estudo/blob/main/DSA%20-%20Analista%20de%20Dados-ver-00-0001.pdf" style="text-decoration: none;">SQL</a></li>
+<li><a href"https://github.com/viniciusferraza1/material-estudo/blob/main/HTML-CSS-JavaScript.pdf">HTML, CSS, JavaScript</a></li>
 </ul>
 
 
